@@ -81,6 +81,7 @@ p {
     font-family: 'georgia', 'times', Arial, sans-serif;
     color: rgb(251, 131, 18);
     margin-bottom: 20px;
+    margin-top: -30px;
     font-size: 48px;
 }
 
@@ -97,6 +98,7 @@ p {
     font-family: 'georgia', 'times', Arial, sans-serif;
     color: rgb(251, 131, 18);
     margin-bottom: 20px;
+    margin-top: -30px;
     font-size: 48px;
 }
 .contact-me {
@@ -139,10 +141,15 @@ li {
     color: rgb(251, 131, 18);
 }
 
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    margin-left: -1.5rem;
-    margin-right: -1.5rem;
-  }
+#flex {
+    flex-direction: column;
+}
+
+#mywork1 {
+    height: 50%;
+
+}
+
+#mywork2 {
+    height: 25%;  
+}
