@@ -120,14 +120,11 @@ ul {
     list-style-type: none;
     margin-top: 5px;
     font-size: 18px;
+    color: #c7d09e;
 }
 
 li {
     margin-bottom: 10px;
-}
-
-#co {
-    color: #c7d09e;
 }
 
 .footer {
