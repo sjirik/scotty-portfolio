@@ -149,12 +149,24 @@ width: 100%;
     width: 100%;
 }
 
+#mywork3 {
+    height: 90%; 
+    width: 100%;
+}
+
 #test1 {
     height: 50%;
     width: 30%;
     flex-direction: column;
 }
 #test2 {
+    flex-direction: column;
+    height: 35%;
+    width: 20%
+
+}
+
+#test3 {
     flex-direction: column;
     height: 35%;
     width: 20%
